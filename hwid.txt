@@ -1,0 +1,2 @@
+# HWID yang diizinkan
+29d7ac224990d12841fcc3800bea8ff20013587e8e1efeb00d909fe706ff880c
